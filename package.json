@@ -12,6 +12,7 @@
   "dependencies": {
     "@types/node": "^22.13.11",
     "@types/react": "^19.1.2",
+    "node-fetch": "^3.3.2",
     "react": "^19.1.0",
     "typescript": "^5.8.3"
   }
