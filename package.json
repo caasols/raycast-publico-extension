@@ -12,23 +12,23 @@
   "commands": [
     {
       "name": "latest-headlines",
-      "title": "Últimas Notícias",
-      "subtitle": "Veja as últimas notícias publicadas",
-      "description": "Veja as últimas notícias publicadas",
+      "title": "View Latest News",
+      "subtitle": "Publico",
+      "description": "Shows the latest headlines from Publico",
       "mode": "view"
     },
     {
       "name": "top-news",
-      "title": "Destaques",
-      "subtitle": "Veja as notícias em destaque",
-      "description": "Veja as notícias em destaque",
+      "title": "View Popular News",
+      "subtitle": "Publico",
+      "description": "Shows top news from Publico",
       "mode": "view"
     },
     {
       "name": "search",
-      "title": "Pesquisar Notícias",
-      "subtitle": "Pesquise por notícias",
-      "description": "Pesquise por notícias",
+      "title": "Search News",
+      "subtitle": "Publico",
+      "description": "Search for news in Publico",
       "mode": "view"
     }
   ],
