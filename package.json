@@ -11,17 +11,17 @@
   "license": "MIT",
   "commands": [
     {
-      "name": "latest-headlines",
-      "title": "View Latest News",
-      "subtitle": "Publico",
-      "description": "Shows the latest headlines from Publico",
-      "mode": "view"
-    },
-    {
       "name": "top-news",
       "title": "View Popular News",
       "subtitle": "Publico",
       "description": "Shows top news from Publico",
+      "mode": "view"
+    },
+    {
+      "name": "latest-headlines",
+      "title": "View Latest News",
+      "subtitle": "Publico",
+      "description": "Shows the latest headlines from Publico",
       "mode": "view"
     },
     {
