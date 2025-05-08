@@ -381,21 +381,21 @@ ${cleanedDescription}
                   markdown={detailMarkdown}
                   metadata={
                     <List.Item.Detail.Metadata>
-                      {/* Author row - Changed to "Autor" */}
+                      {/* Author row */}
                       <List.Item.Detail.Metadata.Label
-                        title="Autor"
+                        title="Author"
                         text={authorText}
                       />
 
-                      {/* Published date row - Changed to "Publicado em" */}
+                      {/* Published date row */}
                       <List.Item.Detail.Metadata.Label
-                        title="Publicado em"
+                        title="Published"
                         text={publishedDate}
                       />
 
-                      {/* Keywords as tags - Changed to "Tópicos" */}
+                      {/* Keywords as tags */}
                       {tags.length > 0 ? (
-                        <List.Item.Detail.Metadata.TagList title="Tópicos">
+                        <List.Item.Detail.Metadata.TagList title="Keywords">
                           {tags.map((tag, tagIndex) => (
                             <List.Item.Detail.Metadata.TagList.Item
                               key={`tag-${tagIndex}`}
@@ -406,7 +406,7 @@ ${cleanedDescription}
                         </List.Item.Detail.Metadata.TagList>
                       ) : (
                         <List.Item.Detail.Metadata.Label
-                          title="Tópicos"
+                          title="Keywords"
                           text="Not available"
                           icon={Icon.Tag}
                         />

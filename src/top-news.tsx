@@ -267,19 +267,19 @@ ${cleanedDescription}
                   <List.Item.Detail.Metadata>
                     {/* Author row - Updated label */}
                     <List.Item.Detail.Metadata.Label
-                      title="Autor"
+                      title="Author"
                       text={authorText}
                     />
 
-                    {/* Published date row - Updated label */}
+                    {/* Published date row */}
                     <List.Item.Detail.Metadata.Label
-                      title="Publicado em"
+                      title="Published"
                       text={publishedDate}
                     />
 
-                    {/* Keywords as tags - Updated label */}
+                    {/* Keywords as tags */}
                     {tags.length > 0 ? (
-                      <List.Item.Detail.Metadata.TagList title="Tópicos">
+                      <List.Item.Detail.Metadata.TagList title="Keywords">
                         {tags.map((tag, tagIndex) => (
                           <List.Item.Detail.Metadata.TagList.Item
                             key={`tag-${tagIndex}`}
