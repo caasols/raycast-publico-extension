@@ -1,4 +1,9 @@
 # 📰 Raycast Público
+![Raycast](https://shields.io/badge/Raycast-black?logo=raycast&style=style=fla)
+![React](https://shields.io/badge/react-black?logo=react&style=style=fla)
+![TypeScript](https://shields.io/badge/typescript-black?logo=typescript&style=style=fla)
+<!-- ![Raycast Extension](https://img.shields.io/raycast/dt/caasols/publico?color=f67976&label=Installs&style=style=fla) -->
+<!-- ![Raycast Público Screenshot](./docs/images/raycast-publico-intro.png) -->
 
 Stay informed with the latest headlines from [Público](https://www.publico.pt/) — without ever opening your browser.
 
@@ -8,12 +13,7 @@ No distractions. No tabs. Just news that matters, right where you work.
 
 ---
 
-![Raycast](https://shields.io/badge/Raycast-black?logo=raycast&style=style=fla)
-![React](https://shields.io/badge/react-black?logo=react&style=style=fla)
-![TypeScript](https://shields.io/badge/typescript-black?logo=typescript&style=style=fla)
-<!-- ![Raycast Extension](https://img.shields.io/raycast/dt/caasols/publico?color=f67976&label=Installs&style=style=fla) -->
 
-<!-- ![Raycast Público Screenshot](./docs/images/raycast-publico-intro.png) -->
 
 ## 📥 Installation
 
