@@ -11,9 +11,6 @@ Stay informed with the latest headlines from [Público](https://www.publico.pt/)
 
 No distractions. No tabs. Just news that matters, right where you work.
 
----
-
-
 
 ## 📥 Installation
 
@@ -27,3 +24,23 @@ No distractions. No tabs. Just news that matters, right where you work.
 git clone https://github.com/caasols/raycast-publico.git
 cd raycast-publico
 npm install && npm run dev
+```
+
+## 🎯 Usage
+
+Here's how to make the most of the Raycast Publico extension:
+
+- **View Popular News**: Shows featured and most popular articles from Público
+- **View Latest News**: Shows the most recent news articles
+- **Search News**: Allows searching through Público's articles
+
+
+## ⭐ Support
+
+If you find this extension helpful, consider:
+
+- Starring the [GitHub repository](https://github.com/foru17/raycast-hoarder)
+- Sharing it with others who might find it useful
+- Contributing to the project's development
+
+Your support helps keep this project active and improving!
