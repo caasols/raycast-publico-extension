@@ -111,19 +111,12 @@ ${
       navigationTitle={articleTitle}
       actions={
         <ActionPanel>
-          <Action.OpenInBrowser title="Abrir no Navegador" url={articleUrl} />
+          <Action.OpenInBrowser title="Open in Browser" url={articleUrl} />
           <Action.CopyToClipboard
-            title="Copiar URL"
+            title="Copy URL"
             content={articleUrl}
             shortcut={{ modifiers: ["cmd"], key: "c" }}
           />
-          {article && article.lead && (
-            <Action.CopyToClipboard
-              title="Copiar Lead"
-              content={article.lead}
-              shortcut={{ modifiers: ["cmd", "shift"], key: "c" }}
-            />
-          )}
         </ActionPanel>
       }
     />

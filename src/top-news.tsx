@@ -302,40 +302,13 @@ ${cleanedDescription}
             actions={
               <ActionPanel>
                 <Action.OpenInBrowser
-                  title="Abrir no Navegador"
+                  title="Open in Browser"
                   url={articleUrl}
                 />
-                <Action.Push
-                  title="Abrir no Raycast"
-                  icon={Icon.Eye}
-                  shortcut={{ modifiers: ["cmd"], key: "o" }}
-                  target={
-                    <ArticleView
-                      articleUrl={articleUrl}
-                      articleTitle={cleanTitle}
-                    />
-                  }
-                />
                 <Action.CopyToClipboard
-                  title="Copiar URL"
+                  title="Copy URL"
                   content={articleUrl}
                   shortcut={{ modifiers: ["cmd"], key: "c" }}
-                />
-                <Action.CopyToClipboard
-                  title="Copiar Título"
-                  content={cleanTitle}
-                  shortcut={{ modifiers: ["cmd", "shift"], key: "c" }}
-                />
-                <Action.CopyToClipboard
-                  title="Copiar Descrição"
-                  content={cleanedDescription}
-                  shortcut={{ modifiers: ["cmd", "opt"], key: "c" }}
-                />
-                <Action
-                  title="Atualizar"
-                  icon={Icon.ArrowClockwise}
-                  shortcut={{ modifiers: ["cmd"], key: "r" }}
-                  onAction={fetchArticles}
                 />
               </ActionPanel>
             }
