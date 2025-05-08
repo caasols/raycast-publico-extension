@@ -39,7 +39,7 @@ Here's how to make the most of the Raycast Publico extension:
 
 If you find this extension helpful, consider:
 
-- Starring the [GitHub repository](https://github.com/foru17/raycast-hoarder)
+- Starring the [GitHub repository](https://github.com/caasols/raycast-publico-extension)
 - Sharing it with others who might find it useful
 - Contributing to the project's development
 
