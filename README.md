@@ -3,13 +3,14 @@
 ![React](https://shields.io/badge/react-black?logo=react&style=style=fla)
 ![TypeScript](https://shields.io/badge/typescript-black?logo=typescript&style=style=fla)
 <!-- ![Raycast Extension](https://img.shields.io/raycast/dt/caasols/publico?color=f67976&label=Installs&style=style=fla) -->
-<!-- ![Raycast Público Screenshot](./docs/images/raycast-publico-intro.png) -->
 
 Stay informed with the latest headlines from [Público](https://www.publico.pt/) — without ever opening your browser.
 
 **Raycast Público** is a simple and efficient Raycast extension that brings Portuguese news directly to your command bar. Browse the day’s most important stories, check the latest updates, or search for any article — all from within Raycast.
 
 No distractions. No tabs. Just news that matters, right where you work.
+
+![Raycast Público Screenshot](./assets/image.png)
 
 
 ## 📥 Installation
